@@ -1,0 +1,49 @@
+Name: Sumit Parwal
+USC ID: 5174593050
+News site crawled: theguardian.com/us
+
+Fetch Statistics
+================
+# fetches attempted:20000
+# fetches succeeded:17399
+# fetches failed or aborted:2601
+
+Outgoing URLs:
+==============
+Total URLs extracted:2738739
+# unique URLs extracted:250433
+# unique URLs within News Site:35839 
+# unique URLs outside News Site:214594
+
+Status Codes:
+=============
+200 OK:17399
+301 Moved Permanently:1681
+302 Moved Temporarily:879
+401 Unauthorized:0
+403 Forbidden:0
+404 Not Found:20
+410 Resource has been permanently removed:1
+504 Gateway timeout Error:20
+
+File Sizes:
+===========
+< 1KB:0    
+1KB ~ <10KB:0
+10KB ~ <100KB:0
+100KB ~ <1MB:14081 
+>= 1MB:3043
+
+Content Types:
+==============
+text/html : 17124
+image/gif:0
+image/jpeg:0
+image/png:0
+application/pdf:0
+
+
+
+
+
+
